@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Giovanna
+-Profissão: Analista de Qualidade
+-Cidade: Florianopolis
+-O que faz nas horas vaga: Pintura, Viagens, Leitura, Assitir series, Cozinhar
+-Feedback sobre o curso Qualidade de Software: Muito bom, bastante completo.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito rápida e fácil de utilizar.
 
 Obrigado!!!
 
